@@ -1,3 +1,0 @@
-(test
- (name pa0)
- (libraries pa0 alcotest))
