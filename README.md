@@ -1,4 +1,3 @@
-# HomeWork1
 PA0: Intro. to OCaml
 Due: Monday, Week 3 at 11:59pm.
 
