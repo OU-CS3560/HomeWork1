@@ -8,7 +8,9 @@ Follow the instructions for [starting OCaml](../starting-ocaml.md).
 
 ## Part 2: Complete the Exercises
 
-You will develop and submit your assignment through GitHub. To start this process, first accept the assignment by visiting  https://classroom.github.com/a/XnZWwgsk (this will create a new private repository in which you should develop your solution). Clone the repository onto your local machine in order to begin working. Your last commit to this repository before the due date will count as your assignment submission. If you forget how to use Git and/or GitHub, read more online (e.g., https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
+You will develop and submit your assignment through GitHub. 
+The first step is to accept the assignment on Github classroom, which you already did.
+This created a new private repository in which you should develop your solution. Clone the repository onto your local machine in order to begin working. Your last commit to this repository before the due date will count as your assignment submission. If you forget how to use Git and/or GitHub, read more online (e.g., https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
 
 The template repository contains a dune (the standard OCaml build tool) project structure, including bin/, lib/, and test/ directories. For this assignment, you may safely ignore the bin/ and test/ directories. Your job is to open the file lib/lib.ml, read the instructions, and complete the exercises contained within.
 
