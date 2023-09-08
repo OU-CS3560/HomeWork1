@@ -1,6 +1,4 @@
-# PA0: Intro to OCaml
-PA0: Intro. to OCaml
-Due: Monday, Week 3 at 11:59pm.
+# PA0: Introduction to OCaml
 
 Your goal in this assignment is to familiarize yourself with OCaml, the programming language we'll be using for much of this course.
 
