@@ -4,7 +4,7 @@ Your goal in this assignment is to familiarize yourself with OCaml, the programm
 
 ## Part 1: "Install OCaml"
 
-Follow the instructions for [starting OCaml](../starting-ocaml.md).
+Follow the instructions for [starting OCaml](https://github.com/drchangliu/cs3200f23/blob/main/starting-ocaml.md).
 
 ## Part 2: Complete the Exercises
 
